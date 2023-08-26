@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate Data Analytics and Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrish9783&label=Profile%20views&color=0e75b6&style=flat" alt="krrish9783" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **R Programming**
 
-- 💬 Ask me about **Web Development , Data Analytics , JAVA , PYTHON , SQL**
+- 💬 Ask me about **Web Development , Data Analytics , JAVA , PYTHON , Machine Learning**
 
 - 📫 How to reach me **kishnuyadav783@gmail.com**
 
