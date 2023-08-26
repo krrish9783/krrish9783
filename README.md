@@ -1,7 +1,7 @@
-[![MasterHead](https://startanalytixnow.com/wp-content/uploads/2022/07/Features-of-Big-data-analytics.gif)
+![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrish9783&label=Profile%20views&color=0e75b6&style=flat" alt="krrish9783" /> </p>
 
