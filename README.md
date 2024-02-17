@@ -1,4 +1,4 @@
-![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
+![MasterHead](Krishak_Gyan/img/koder.png)
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
 <h3 align="center">A passionate Data Analytics and Developer from India</h3>
 
