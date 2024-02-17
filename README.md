@@ -1,5 +1,4 @@
 ![MasterHead](https://raw.githubusercontent.com/krrish9783/Krishak_Gyan/main/img/koder.png)
-
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
 <h3 align="center">A passionate Data Analytics and Developer from India</h3>
 
