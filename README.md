@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/krrish9783/Krishak_Gyan/main/img/koder.png)
+![MasterHead](https://raw.githubusercontent.com/krrish9783/Krishak_Gyan/main/img/git.png)
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
 <h3 align="center">A passionate Data Analytics and Developer from India</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krrish97" target="blank"><img src="https://img.shields.io/twitter/follow/krrish97?logo=twitter&style=for-the-badge" alt="krrish97" /></a> </p>
 
-- 🌱 I’m currently learning **R Programming**
+- 🌱 I’m currently learning **Data Structure And Algo**
 
 - 💬 Ask me about **Web Development , Data Analytics , JAVA , PYTHON , Machine Learning**
 
