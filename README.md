@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/krrish9783/Krishak_Gyan/main/img/git.png)
 <h1 align="center">Hi 👋, I'm Kishnu Kumar</h1>
-<h3 align="center">A passionate Data Analytics and Developer from India</h3>
+<h3 align="center">A passionate learner and Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrish9783&label=Profile%20views&color=0e75b6&style=flat" alt="krrish9783" /> </p>
